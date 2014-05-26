@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Linn Zhao, Thinking Man]]></title>
   <link href="http://LinnZhao.github.io/atom.xml" rel="self"/>
   <link href="http://LinnZhao.github.io/"/>
-  <updated>2014-05-26T14:56:01-05:00</updated>
+  <updated>2014-05-26T15:45:10-05:00</updated>
   <id>http://LinnZhao.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Linn Zhao]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Initalizing]]></title>
+    <link href="http://LinnZhao.github.io/blog/2014/05/26/initalizing/"/>
+    <updated>2014-05-26T15:36:47-05:00</updated>
+    <id>http://LinnZhao.github.io/blog/2014/05/26/initalizing</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
